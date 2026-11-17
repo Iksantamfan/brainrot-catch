@@ -1,8 +1,8 @@
 # Brainrot Catch
 
-![Brainrot Catch](https://make.fun/badge/roblox-brainrot-01.svg)
-![Rank](https://make.fun/badge/roblox-brainrot-01/Iksantamfan/brainrot-catch/rank.svg)
-![Reward](https://make.fun/badge/roblox-brainrot-01/Iksantamfan/brainrot-catch/reward.svg)
+[![make.fun · roblox-brainrot-01](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/Iksantamfan/brainrot-catch/rank.svg)](https://make.fun/bounty/roblox-brainrot-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/Iksantamfan/brainrot-catch/reward.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
 
 **Brainrot Catch** is a 3D Roblox game for make.fun's `roblox-brainrot-01` bounty ("Make the best AI Roblox brainrot game"). Not a Steal a Brainrot clone and not a conveyor game: absurd animal-plus-object hybrids roam a colourful 3D map, you catch them in the wild, and you dash home to your base before the wave sweeps the map.
 
