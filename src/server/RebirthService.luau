@@ -5,7 +5,7 @@
 -- base, and grants the next permanent income multiplier.
 
 local BaseService = require(script.Parent.BaseService)
-local Config = require(script.Parent.Parent.Shared.Config)
+local Config = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("Config"))
 local DataManager = require(script.Parent.DataManager)
 local Remotes = require(script.Parent.Remotes)
 

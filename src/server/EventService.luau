@@ -5,7 +5,7 @@
 --     90 seconds (the Spawner reads the flag through setGoldenHourActive).
 -- The clock lives on the server; clients only display what they are told.
 
-local Config = require(script.Parent.Parent.Shared.Config)
+local Config = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("Config"))
 local Remotes = require(script.Parent.Remotes)
 local Spawner = require(script.Parent.Spawner)
 

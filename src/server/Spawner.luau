@@ -7,7 +7,7 @@
 
 local Workspace = game:GetService("Workspace")
 
-local Config = require(script.Parent.Parent.Shared.Config)
+local Config = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("Config"))
 local ModelBuilder = require(script.Parent.ModelBuilder)
 
 local Spawner = {}

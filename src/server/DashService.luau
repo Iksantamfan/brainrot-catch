@@ -6,7 +6,7 @@
 
 local Players = game:GetService("Players")
 
-local Config = require(script.Parent.Parent.Shared.Config)
+local Config = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("Config"))
 local Remotes = require(script.Parent.Remotes)
 
 local DashService = {}

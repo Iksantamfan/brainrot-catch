@@ -10,7 +10,7 @@ local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
 
 local CatchService = require(script.Parent.CatchService)
-local Config = require(script.Parent.Parent.Shared.Config)
+local Config = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("Config"))
 local DataManager = require(script.Parent.DataManager)
 local ModelBuilder = require(script.Parent.ModelBuilder)
 local Remotes = require(script.Parent.Remotes)

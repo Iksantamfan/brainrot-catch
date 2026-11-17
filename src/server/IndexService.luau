@@ -3,7 +3,7 @@
 -- discovered. Completing all twelve pays a one-time $1,000,000 bonus. The
 -- client asks for its index data and gets the discovered set back.
 
-local Config = require(script.Parent.Parent.Shared.Config)
+local Config = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("Config"))
 local DataManager = require(script.Parent.DataManager)
 local Remotes = require(script.Parent.Remotes)
 
